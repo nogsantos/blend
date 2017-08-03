@@ -1,3 +1,3 @@
-# Blend
+# Blender
 
-### 1. Donut
+Spending a time learning new stuffs...
